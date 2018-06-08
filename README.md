@@ -1,3 +1,9 @@
+
+## Overview
+
+This is the code for [this](https://youtu.be/HT1_BHA3ecY) video on Youtube by Siraj Raval on Modeling Evolution with Tensorflow.js.
+
+
 # [DEMO](https://adityathebe.github.io/evolutionSimulator/)
     
 # Evolution Simulator
@@ -53,3 +59,8 @@ Two creatures (*parents*) are selected using the selection algorithm. Their weig
 *The objective of this function is to introduce randomness in the population by tweaking the weights in the Neural network (brain) of a creature.*
 
 This function accepts a mutation rate as its parameter. The mutation rate, which is usually about 1 - 2%, is in fact the probability of introduction of randomness.
+
+
+## Credits 
+
+The credits for this code go to [adityathebe](https://github.com/adityathebe/evolutionSimulator). I've merely created a wrapper to get people started. 
